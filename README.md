@@ -3,18 +3,16 @@ Actividad Formativa 1: Desarrollando nuestro microservicio
 
 
 ## Configuración
-**Puerto:** `8081`
-**URL:** `http://localhost:8081/microservicio/`
-**Base de datos:** Oracle Cloud
-**Tabla:** `libro_desnormalizado`
+- **Puerto:** `8081`
+- **URL:** `http://localhost:8081/microservicio/`
+- **Base de datos:** Oracle Cloud
+- **Tabla:** `libro_desnormalizado`
 
 La conexión a la base de datos debe estar configurada en `application.properties`.
 
 ### Oracle Wallet
 
-El proyecto tiene configurada la conexión a Oracle mediante **Oracle Wallet**, ubicado en la siguiente ruta de Windows:
-
-`C:/Wallets/Wallet_MIBD_belen_guerrero`
+El proyecto tiene configurada la conexión a Oracle mediante **Oracle Wallet**, ubicado en la siguiente ruta de Windows: `C:/Wallets/Wallet_MIBD_belen_guerrero`
 
 ## Endpoints
 
